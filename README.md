@@ -1,6 +1,6 @@
 Dynamic Sales & Profitability Audit
 
-![Final Dashboard View](dashboard.jng)
+![Final Dashboard View](dashboard.jpg)
 
 This project involves a comprehensive Budget vs. Actual (BvA) analysis delivered via an interactive Excel dashboard to identify 
 critical strategic flaws and forecast profit recovery opportunities.
